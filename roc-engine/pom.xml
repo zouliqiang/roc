@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.roc.engine</groupId>
+    <artifactId>roc-engine</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.0-SNAPSHOT</version>
+    <modules>
+        <module>roc-engine-common</module>
+        <module>roc-engine-meta</module>
+        <module>roc-engine-parser</module>
+        <module>roc-engine-optimizer</module>
+        <module>roc-engine-executor</module>
+        <module>roc-engine-source</module>
+        <module>roc-engine-function</module>
+        <module>roc-engine-sei</module>
+        <module>roc-engine-common</module>
+    </modules>
+
+
+</project>
