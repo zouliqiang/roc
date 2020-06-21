@@ -2,7 +2,7 @@ package org.example;
 
 /**
  * Hello world!
- *
+ * @desc test
  */
 public class App 
 {
